@@ -1,0 +1,14 @@
+.img-size{
+    width: 355px;
+    height: 200px;
+}
+.card-size{
+    height: 500px;
+}
+.text-bold{
+    font-weight: 800;
+}
+
+.fa-star{
+    color: goldenrod;
+}

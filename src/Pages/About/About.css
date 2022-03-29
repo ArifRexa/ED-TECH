@@ -1,0 +1,9 @@
+.auth-img-size img{
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+    clip-path: circle();
+    display: block;
+    margin: auto;
+    margin-top: 0;
+}
